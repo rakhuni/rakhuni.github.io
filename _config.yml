@@ -5,8 +5,8 @@
 
 # Site
 title: rvkhun
-subtitle: write about dev, hack
-description: pwner
+subtitle: dev/pwn/web
+description: 
 author: Jihoon Choi
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -58,7 +58,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
 
 # Atom feed
 feed:
@@ -117,11 +117,11 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /about/
+  home: /
   categories: /categories/
   archives: /archives/
   tags: /tags/
-  #about: /about/
+  about: /about/
   #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
