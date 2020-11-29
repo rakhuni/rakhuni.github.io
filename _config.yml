@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: adrenellen rvkhun
-subtitle: Hacking blog
-description:
-author: John Doe
+title: rvkhun
+subtitle: write about dev, hack
+description: pwner
+author: Jihoon Choi
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -117,11 +117,11 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  home: /about/
   categories: /categories/
   archives: /archives/
   tags: /tags/
-  about: /about/
+  #about: /about/
   #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
