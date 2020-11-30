@@ -5,9 +5,9 @@
 
 # Site
 title: rvkhunLab
-subtitle: write about dev,hacking
-description: Offensive sequrity
-author: Jihoon Choi
+subtitle: write about dev,sec
+description: 
+author: rvkhun
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
