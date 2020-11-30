@@ -307,7 +307,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: true
+  enable: false
   length: 150
 
 # Post meta display settings
@@ -630,7 +630,7 @@ pace: false
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-# pace_theme: pace-theme-center-simple
+#pace_theme: pace-theme-center-simple
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
