@@ -10,8 +10,8 @@ type: about
 
 > **Experience** 
 
-- Yonsei University, Mirae (2018 ~ )
-- Best of the Best 8th, Vulnerability Analysis (2019 ~ 2020)
+- Yonsei University, Mirae (2018.03 ~ )
+- Best of the Best 8th, Vulnerability Analysis (2019.07 ~ 2020.02)
 
 > **Project**
 
