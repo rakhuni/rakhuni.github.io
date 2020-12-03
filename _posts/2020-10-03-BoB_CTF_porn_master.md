@@ -6,7 +6,9 @@ categories: CTFwrite-up
 tags: [CTF, write-up, pwnable]
 ---
 
-BoB 9th CTF // pwnable
+<center>BoB 9th CTF // pwnable </center>
+
+
 
 
 # vulnability
