@@ -5,8 +5,9 @@ type: about
 
 > **Introduce**
 
-- Jihoon Choi (`rvkhun`)
+- Jihoon Choi, `rvkhun`
 - Republic of Korea
+- Security Researcher / CTF Player
 
 > **Experience** 
 
