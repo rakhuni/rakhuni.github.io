@@ -153,8 +153,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -266,8 +266,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
@@ -408,7 +408,7 @@ wildfire:
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
-  theme: light # or dark
+  theme: dark # or dark
   locale: en # or other locales, e.g. zh-CN
   defaultAvatarURL: 
 # Any question? 
