@@ -6,7 +6,7 @@
 # Site
 title: rvkhunLab
 subtitle: It doesn't matter how slowly you go so long as you don't stop.
-description: Security researcher
+description: Security Researcher / CTF Player
 author: rvkhun
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -93,7 +93,7 @@ rss: false
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -154,8 +154,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -216,9 +216,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
-  #LinkLabel: Link
+  LinkLabel: Link
   GitHub: https://github.com/rakhuni
-  #Insta: https://ww
+  Insta: https://www.instagram.com/_choizy_
 
 # Social Links Icons
 # Icon Mapping:
@@ -230,6 +230,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  Insta: insta
   #Twitter: twitter
   #Weibo: weibo
 
@@ -258,8 +259,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -613,7 +614,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -629,8 +630,8 @@ pace: false
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-#pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-center-simple
+#pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: false
